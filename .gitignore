@@ -61,3 +61,4 @@ pip-wheel-metadata/
 .DS_Store
 
 .pytest*
+/edibles/data/DR4/
